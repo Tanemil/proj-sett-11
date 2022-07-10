@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "email": "quzagumyde@mailinator.com",
+      "password": "$2a$10$3HMMMsK8qXkjvwuSfLC7SuFwB9rCd7BRidTIbHErdBHRcoo6vrHby",
+      "firstname": "Kay",
+      "lastname": "Ball",
+      "img": "https://picsum.photos/200/300?random=1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vehicula arcu a dapibus tristique. Aenean id condimentum urna, id sollicitudin dui. Nullam cursus eleifend orci at viverra. Pellentesque tempus enim ultricies tempus tincidunt. Proin non metus in lacus tristique imperdiet quis interdum lorem. Maecenas enim metus, tincidunt non pretium sodales, efficitur vitae justo. Proin vitae ultricies magna. Nullam convallis viverra metus. In cursus ante sed dui fringilla, at ullamcorper nunc sollicitudin. Ut mi sem, tincidunt vel tellus vel, suscipit venenatis erat. Nullam varius auctor pellentesque. Fusce aliquet sapien vel elit mollis feugiat vitae quis eros. Etiam magna est, laoreet et purus sed, feugiat molestie ante.",
+      "id": 1
+    },
+    {
+      "email": "example@example.com",
+      "password": "$2a$10$2HwpkQcqoYBZE4Fxl/.BAeTz.CqMYeP1ktouszRp5lsT2N4r/BJx6",
+      "firstname": "Mario",
+      "lastname": "Rossi",
+      "img": "https://picsum.photos/200/300?random=2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vehicula arcu a dapibus tristique. Aenean id condimentum urna, id sollicitudin dui. Nullam cursus eleifend orci at viverra. Pellentesque tempus enim ultricies tempus tincidunt. Proin non metus in lacus tristique imperdiet quis interdum lorem. Maecenas enim metus, tincidunt non pretium sodales, efficitur vitae justo. Proin vitae ultricies magna. Nullam convallis viverra metus. In cursus ante sed dui fringilla, at ullamcorper nunc sollicitudin. Ut mi sem, tincidunt vel tellus vel, suscipit venenatis erat. Nullam varius auctor pellentesque. Fusce aliquet sapien vel elit mollis feugiat vitae quis eros. Etiam magna est, laoreet et purus sed, feugiat molestie ante.",
+      "id": 2
+    },
+    {
+      "email": "m.rossi@example.com",
+      "password": "$2a$10$fTEikh4JdcsHdFbKpEf2wOWR/FITmnrh3WFWOVJobK0uBYV6MIOHy",
+      "firstname": "Mario",
+      "lastname": "Rossi",
+      "img": "https://picsum.photos/200/300?random=3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vehicula arcu a dapibus tristique. Aenean id condimentum urna, id sollicitudin dui. Nullam cursus eleifend orci at viverra. Pellentesque tempus enim ultricies tempus tincidunt. Proin non metus in lacus tristique imperdiet quis interdum lorem. Maecenas enim metus, tincidunt non pretium sodales, efficitur vitae justo. Proin vitae ultricies magna. Nullam convallis viverra metus. In cursus ante sed dui fringilla, at ullamcorper nunc sollicitudin. Ut mi sem, tincidunt vel tellus vel, suscipit venenatis erat. Nullam varius auctor pellentesque. Fusce aliquet sapien vel elit mollis feugiat vitae quis eros. Etiam magna est, laoreet et purus sed, feugiat molestie ante.",
+      "id": 3
+    },
+    {
+      "email": "xotar@mailinator.com",
+      "password": "$2a$10$gnyvXzzF5J419C6NBB/t7uB1ikq5Z00eQ.B5Z.OyfTaxCgpf8S4Da",
+      "firstname": "Whilemina",
+      "lastname": "Mccray",
+      "img": "https://picsum.photos/200/300?random=4",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vehicula arcu a dapibus tristique. Aenean id condimentum urna, id sollicitudin dui. Nullam cursus eleifend orci at viverra. Pellentesque tempus enim ultricies tempus tincidunt. Proin non metus in lacus tristique imperdiet quis interdum lorem. Maecenas enim metus, tincidunt non pretium sodales, efficitur vitae justo. Proin vitae ultricies magna. Nullam convallis viverra metus. In cursus ante sed dui fringilla, at ullamcorper nunc sollicitudin. Ut mi sem, tincidunt vel tellus vel, suscipit venenatis erat. Nullam varius auctor pellentesque. Fusce aliquet sapien vel elit mollis feugiat vitae quis eros. Etiam magna est, laoreet et purus sed, feugiat molestie ante.",
+      "id": 4
+    },
+    {
+      "email": "bumimiw@mailinator.com",
+      "password": "$2a$10$ueQ1JyEW9LO4oRmXeMc47.5hWehDK3e.VlAQk6W0255p12wRLVC5O",
+      "firstname": "Harding",
+      "lastname": "Henson",
+      "img": "https://picsum.photos/200/300?random=5",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vehicula arcu a dapibus tristique. Aenean id condimentum urna, id sollicitudin dui. Nullam cursus eleifend orci at viverra. Pellentesque tempus enim ultricies tempus tincidunt. Proin non metus in lacus tristique imperdiet quis interdum lorem. Maecenas enim metus, tincidunt non pretium sodales, efficitur vitae justo. Proin vitae ultricies magna. Nullam convallis viverra metus. In cursus ante sed dui fringilla, at ullamcorper nunc sollicitudin. Ut mi sem, tincidunt vel tellus vel, suscipit venenatis erat. Nullam varius auctor pellentesque. Fusce aliquet sapien vel elit mollis feugiat vitae quis eros. Etiam magna est, laoreet et purus sed, feugiat molestie ante.",
+      "id": 5
+    },
+    {
+      "email": "emanuel1999emy@gmail.com",
+      "password": "$2a$10$7FFFZ9KAAcsB6nIXwkwRyeil5lLc6k09gJwczlUGVgBOHcs25Y02i",
+      "firstname": "Emanuel",
+      "lastname": "Tancau",
+      "img": "https://picsum.photos/200/300?random=6",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vehicula arcu a dapibus tristique. Aenean id condimentum urna, id sollicitudin dui. Nullam cursus eleifend orci at viverra. Pellentesque tempus enim ultricies tempus tincidunt. Proin non metus in lacus tristique imperdiet quis interdum lorem. Maecenas enim metus, tincidunt non pretium sodales, efficitur vitae justo. Proin vitae ultricies magna. Nullam convallis viverra metus. In cursus ante sed dui fringilla, at ullamcorper nunc sollicitudin. Ut mi sem, tincidunt vel tellus vel, suscipit venenatis erat. Nullam varius auctor pellentesque. Fusce aliquet sapien vel elit mollis feugiat vitae quis eros. Etiam magna est, laoreet et purus sed, feugiat molestie ante.",
+      "id": 6
+    }
+  ]
+}

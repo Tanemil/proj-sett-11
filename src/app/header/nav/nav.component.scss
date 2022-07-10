@@ -1,0 +1,18 @@
+div{
+  display: flex;
+  align-items: center;
+  a , button{
+    margin-left: 0.5rem;
+  }
+  button{
+    background-color: #0d6efd;
+  }
+  button:hover{
+    background-color: #0c57c9;
+    color: white;
+  }
+
+  a:hover{
+    color: #0d6efd;
+  }
+}
